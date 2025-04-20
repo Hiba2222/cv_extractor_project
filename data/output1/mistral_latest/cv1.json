@@ -1,0 +1,46 @@
+{
+  "Name": "Allena Hanson",
+  "Email": "hanson@helpshared.com",
+  "Phone": "+1 234-567-8990",
+  "Address": "123 Park Avenue, Redwood City, CA 94063",
+  "Education": [
+    {
+      "degree": "Bachelor of Business Administration",
+      "institution": "Governors University",
+      "year": "2014 - 2017"
+    },
+    {
+      "degree": "",
+      "institution": "Esri Financial.Inc",
+      "year": "2017 - 2019",
+      "description": [
+        "Internship for Administrative Assistant"
+      ]
+    }
+  ],
+  "Experience": [
+    {
+      "job_title": "Administrative Coordinator",
+      "company": "RHA Health Services",
+      "duration": "2019 – 2021"
+    },
+    {
+      "job_title": "Administrative Assistant",
+      "company": "AIA Insurance Oregon",
+      "duration": "2021 – 2024"
+    }
+  ],
+  "Skills": [
+    "Project Management",
+    "Initiative",
+    "Quality Work",
+    "Executive Support",
+    "Effective Task Execution",
+    "Teamwork",
+    "Time Management",
+    "Office Management Systems",
+    "Organization"
+  ],
+  "Languages": [],
+  "model": "mistral:latest"
+}

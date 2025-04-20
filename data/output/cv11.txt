@@ -1,0 +1,97 @@
+TIMOTHY DUNCAN
+Python Developer
+229-828-1284  lily.williams@gmail.com  github.io/lily.williams  San Francisco, CA
+
+SUMMARY
+Python developer with 8 years of experience in finance and fintech. Well-
+acquainted with database engineering, data warehouses, and data processing.
+Knowledgeable in Python frameworks related to data such as SciPy, NumPy,
+Matplotlib. Cloudera certified Data analyst, PCPP-1 certification and Spark/Hadoop
+developer certification.
+
+SKILLS
+Programming
+Python  SciPy  NumPy  Matplotlib
+Django  Flask  SQL  Java
+
+Databases & Servers
+AWS  Django ORM  MySQL  ETL
+Cassandra  MongoDB  Hadoop
+Spark
+
+Development
+GIT  SVN  PyCharm
+
+CERTIFICATION
+CCA Data Analyst
+Cloudera, 2017
+
+CCA Spark and Hadoop Developer
+Cloudera, 2015
+
+PCPP1
+The Python Institute, 2014
+
+STRENGTHS
+Time management
+Prioritizes essential tasks so they are not
+rushed. Sets deadlines that ensure reaching
+milestones on time.
+
+Adaptability
+I remember that change is not personal and is
+inevitable. I break my projects into multiple
+parts so that if something goes wrong, I can
+quickly fix it.
+
+Accountability
+I take ownership of my mistakes. By doing
+that I learn what I did wrong so that it does
+not happen again.
+
+EDUCATION
+B.S. Software Engineering
+GPA
+University of California, San Francisco
+3.8 / 4.0
+2008 - 2012  San Francisco, CA
+
+EXPERIENCE
+Python Developer
+Revolut  2015 - 2018  San Francisco, CA
+Revolut is a financial technology company that offers banking services. We offer
+accounts featuring currency exchange, debit cards, virtual cards, and vaults.
+•	Collaborated with Web Application Engineers, used Python scripts to load the
+data into AWS Cloud Cassandra database
+•	Visualised over 40 datasets with Matplotlib
+•	Involved in processing the streaming data as well as batch data using Apache
+Spark
+•	Delivering projects with 1-2 days turn around time or even within hours
+
+Python Developer
+Bank of America  2012 - 2015  San Francisco, CA
+Lauzon is a finance firm based out of San Francisco, CA. They cater to over 30 local
+businesses and startups by providing custom finance software.
+•	Developed internal tools for text mining (sentimental analysis), and web crawler
+for collecting data by Python and SQL
+•	Used AWS Elastic Beanstalk service for deploying and scaling web applications
+and services developed with Java, Python
+•	Developed shell scripting and Python programs to automate the data flow on
+day-to-day tasks
+•	Analyzed the SQL scripts and designed the solution to Developed a custom ETL
+pipeline by using Python
+
+Junior Python Developer
+Streich  2018 - Present  San Francisco, CA
+Lauzon is a finance firm based out of San Francisco, CA. They cater to many local
+businesses and startups by providing custom finance software.
+•	Made over 800 insertions and 150 deletions to 4 central Firmware repositories
+in less than 3 months
+•	Participated in more than 4 projects per year from initial research and
+conceptual design through testing and implementation phases
+•	Developed data quality portal using Python scripting, increasing data quality by
+30%
+•	Communicated and coordinated with the project manager and coworkers
+to resolve 30+ build breaks a month
+
+www.enhancv.com  Powered by  Enhancv

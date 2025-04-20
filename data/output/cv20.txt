@@ -1,0 +1,91 @@
+HIBA NAHDI
+Computer Science Engineer
+[ hiba.nahdi4@ensi-uma.tn
+¯ linkedin.com/in/hiba nahdi
+As a recent engineering graduate, I am enthusiastic about launching my professional career and utilizing my skills to create eﬃ-
+cient and eﬀective software solutions.
+EDUCATION
+Engineering Degree in Computer Sci-
+ence
+National School for Computer Science
+ Sept 2020 – Present ½ Manouba,Tunisia
+Preparatory Engineering Studies in
+physics and chemistry
+Preparatory Institute for Engineering Studies
+of Tunis (IPEIT)
+ Sept 2017-June 2020½ Tunis, Tunisia
+Baccalaureate in experimental sci-
+ences
+Ahmed Amine High School
+ Sept 2013-June 2017½ Ben Arous, Tunisia
+TECHNICAL SKILLS
+Machine Learning
+NLP
+LLMs
+Data Mining
+Git
+Problem Solving
+Algorithms and data structures
+Gnu/Linux
+SQL
+Knowledge in Cloud computing
+C/C++
+Python
+Java
+COMMUNITY LIFE
+-HR manager and general secretary :
+Positive and Sociable Citizens Club
+-General secretary :
+NATEG ENSI Student Chapter
+-Member :
+ENSI Robotics Association
+LANGUAGES
+Arabic
+: Native
+English
+: B2 level (DET)
+French
+: C1 level (TCF)
+PROFESSIONAL EXPERIENCES
+Mitacs Research Intern - Graduation Project
+Analysis of the Social Acceptability of Natural Resource Projects
+ March 2024 – August 2024
+½ University of Quebec in Abitibi-
+Témiscamingue (UQAT)
+• Perform comprehensive web scraping and data mining of articles from
+the university library, then clean and prepare the data to ensure it is
+ready for modeling.
+• Build a model to extract key information, such as success factors and
+constraints, using named entity recognition (NER).
+• Apply sentiment analysis to evaluate the project’s tone, favorability, and
+acceptance based on the extracted data.
+• Integrate an API to test and validate the model’s functionality and per-
+formance in real-time.
+Keywords: Python, NLP, Transformers, NER, Sentiment Analysis, FastAPI
+Software Engineer Intern - Summer Internship Project
+Development of an online platform for learning and job hunting
+ Jul 2023 – Aug 2023
+½ Welyne
+• Create a platform that provides a diverse range of high-quality courses
+and jobs oﬀers.
+• Integrate a recommendation system to suggest job opportunities based
+on user’s acquired skills and certiﬁcations.
+Keywords: HTML, CSS, Angular, Spring Boot, Java, AI, TensorFlow
+PROJECTS
+IoT System for Access Control and Security
+ Apr 2023 - Jun 2023
+• Develop an IoT system using RFID technology for access control, where
+the ESP8266 module reads RFID tags and communicates with a web
+server to verify access.
+• Develop a React web interface for user authentication and client man-
+agement.
+Keywords: ESP8266, RFID, React, Slim PHP
+Intelligent Conversational Agent Development
+ sep 2023 – oct 2023
+• Design and develop a chatbot capable of understanding and responding
+to user queries.
+• Use sentiment analysis to evaluate the chatbot’s responses, analyzing
+tone, sentiment, and user satisfaction in real-time interactions.
+• Integrate an API to test and validate the chatbot’s performance and
+functionality, ensuring accurate and eﬃcient responses.
+Keywords: Python, NLP, Transformers, FastAPI

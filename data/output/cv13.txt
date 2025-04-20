@@ -1,0 +1,65 @@
+JAMES ANDERSON
+Web Developer  Full time | Frontend Developer
+
+Web developer with 5+ years of experience in creating
+dynamic, responsive websites. Proficient in HTML, CSS,
+JavaScript, and React, with a strong focus on performance
+optimization and clean code.
+
+CONTACT
+
+j.anderson@email.com
+London, UK
++44 1234 567890
+jamesanderson.ltd
+
+EMPLOYMENT
+
+Senior Frontend Developer
+TechWave | London
+Full Time
+15 March, 2021
+
+TECHNICAL SKILLS
+
+HTML/CSS
+JavaScript
+React
+Git/GitHub
+Webpack
+REST APIs
+
+Frontend Developer
+DigitalCrafts | Manchester
+Full Time
+10 June, 2018
+
+Junior Frontend Developer
+CodeWorks | Bristol
+Full Time
+5 December, 2016
+
+Intern Web Developer
+WebStart | Cambridge
+Full Time
+20 May, 2014
+
+LANGUAGES
+
+English: Fluent
+Spanish: Intermediate
+French: Basic
+
+CERTIFICATES
+
+Available upon request.
+
+EDUCATION
+
+Master's Degree in Computer Science
+University of Cambridge
+September 2015 - June 2017
+
+Bachelor's Degree in Software Engineering
+University of Leeds
+August 2011 - June 2015

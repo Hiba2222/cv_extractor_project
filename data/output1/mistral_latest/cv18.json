@@ -1,0 +1,52 @@
+{
+  "Name": "Jason William",
+  "Email": "jason123@email.com",
+  "Phone": "+48 234-567-8900",
+  "Address": "Miejska 7, 05-807 Podkowa Leśna, Poland",
+  "Education": [
+    {
+      "degree": "Bachelor's degree in computer programming",
+      "institution": "Drexel University",
+      "year": "2011 - 2016",
+      "description": [
+        "Trains learners in common programming languages such as Python, Java, and C++."
+      ]
+    },
+    {
+      "degree": "BA in Computer Science",
+      "institution": "University of Warsaw",
+      "year": "2016 - 2020",
+      "description": [
+        "Computer science combines the principles of engineering, mathematics and science to study and develop computers, networks, hardware, software, databases and much more."
+      ]
+    }
+  ],
+  "Experience": [
+    {
+      "job_title": "Junior Programmer",
+      "company": "Interbiz",
+      "duration": "2020 - 2023",
+      "description": [
+        "Wrote code to create web services, enabling seamless integration with third-party applications and improving overall system functionality."
+      ]
+    },
+    {
+      "job_title": "Entry Level Programmer",
+      "company": "Global Media",
+      "duration": "2024 - PRESENT",
+      "description": [
+        "Collaborated with team members to troubleshoot and debug existing code, resulting in a 25% reduction in software bugs."
+      ]
+    }
+  ],
+  "Skills": [
+    "COMMUNICATION",
+    "PROBLEM SOLVING",
+    "ANALYSIS",
+    "VISUAL C++",
+    "JAVA",
+    "PYTHON"
+  ],
+  "Languages": [],
+  "model": "mistral:latest"
+}

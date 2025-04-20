@@ -1,0 +1,44 @@
+{
+  "Name": "Jenna Mirella",
+  "Email": "mirella123@email.com",
+  "Phone": "+1 234-567-8910",
+  "Address": "",
+  "Education": [
+    {
+      "degree": "MASTER OF BUSINESS ADMINISTRATIONS",
+      "institution": "Boston University",
+      "year": "2015 – 2019",
+      "description": []
+    },
+    {
+      "degree": "BACHELOR OF SCIENCE IN ACCOUNTING",
+      "institution": "University of California - USA",
+      "year": "2014 – 2015",
+      "description": []
+    }
+  ],
+  "Experience": [
+    {
+      "job_title": "ACCOUNTING INTERN",
+      "company": "Global Marbels. Ins",
+      "duration": "June ’23 – March ’24",
+      "description": [
+        "Assisted with the quarterly reconciliation process, helping to identify and rectify errors that led to 10% fewer adjustments in subsequent reports."
+      ]
+    },
+    {
+      "job_title": "ACCOUNTING CLERK",
+      "company": "Mega International",
+      "duration": "Mei ’19 – November ‘21",
+      "description": [
+        "Enhanced internal control mechanisms leading to a 15% improvement in compliance with GAAP for complex transactions."
+      ]
+    }
+  ],
+  "Skills": [
+    "Microsoft Word",
+    "Excel",
+    "Powerpoint",
+    "Accounts Payable & Receivable"
+  ]
+}

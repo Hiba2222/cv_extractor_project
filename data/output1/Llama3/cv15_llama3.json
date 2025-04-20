@@ -1,0 +1,55 @@
+{
+  "Name": "Olivia Miller",
+  "Email": "email@email.com",
+  "Phone": "",
+  "Address": "",
+  "Education": [
+    {
+      "degree": "Associate of Communications",
+      "institution": "University at Albany",
+      "year": "Sep 2010 — May 2015",
+      "description": []
+    },
+    {
+      "degree": "High School Diploma",
+      "institution": "Academy of the Holy Names",
+      "year": "Sep 2006 — Jun 2010",
+      "description": []
+    }
+  ],
+  "Experience": [
+    {
+      "job_title": "Bank Teller",
+      "company": "Citibank",
+      "duration": "Jul 2018 — Feb 2021",
+      "description": [
+        "Successfully performed a full range of Teller duties.",
+        "Fostered a welcoming and friendly customer environment.",
+        "Provided prompt and courteous services to all customers.",
+        "Utilized banking knowledge to recognize customer needs and suggested appropriate banking services.",
+        "Worked as an enthusiastic and cooperative team member."
+      ]
+    },
+    {
+      "job_title": "Bank Teller",
+      "company": "Walden Savings Bank",
+      "duration": "Jun 2015 — Jun 2018",
+      "description": [
+        "Provided exceptional customer service and basic product information to customers.",
+        "Ensured the accurate processing of customer transactions.",
+        "Assisted customers with account maintenance questions and procedures.",
+        "Promoted bank products and services by referring customers to appropriate business partners as necessary.",
+        "Assisted supervisors in daily branch operations."
+      ]
+    }
+  ],
+  "Skills": [
+    "Time Management",
+    "Ability to Multitask",
+    "Adaptability",
+    "Customer Service",
+    "Advanced Banking Knowledge",
+    "English",
+    "Polish"
+  ]
+}

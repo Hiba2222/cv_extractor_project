@@ -1,0 +1,80 @@
+{
+  "Name": "VANESSA FORD",
+  "Email": "bettypen@gmail.com",
+  "Phone": "+1-234-423-8975",
+  "Address": "Little Rock, AK",
+  "Education": [
+    {
+      "degree": "High School Diploma",
+      "institution": "Excel High School",
+      "year": "",
+      "description": [
+        "GPA | 4.0 / 4.0"
+      ]
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "institution": "Northeastern University",
+      "year": "09/2014 - 06/2019, 09/2019 - 07/2022",
+      "description": [
+        "Performed software development and testing of 10 project websites",
+        "Learned how to operate with databases and performed data modeling",
+        "Worked with a team of 5 colleagues to deliver an innovative e-commerce application",
+        "Took additional courses on the development of AI programs and blockchain technology",
+        "Learned how to install, modify and make minor repairs on personal and business computers",
+        "Built 4 professional websites",
+        "Excelled in mathematics, intelligent systems and algorithms and complexity",
+        "Learned how to perform troubleshooting and fix bugs",
+        "GPA | 4 / 4"
+      ]
+    }
+  ],
+  "Experience": [
+    {
+      "job_title": "Software Intern",
+      "company": "Salesforce",
+      "duration": "06/2021 - 12/2021",
+      "description": [
+        "Contributed to the development of 1 project of web development",
+        "Resolved 20 assigned job requests and incident tickets",
+        "Assisted in handling 11 execution proceedings",
+        "Assisted in product development from conception to end-user stage with a success rate of over 95%"
+      ]
+    },
+    {
+      "job_title": "IT Intern",
+      "company": "Microsoft",
+      "duration": "11/2020 - 04/2021",
+      "description": [
+        "Personally provided tier 1 technical support to clients for their computer and software issues",
+        "Participated in performing a web database testing of measurements for over 2M+ clients to enhance the management of customer data",
+        "Installed Windows and hardware systems components for 1000+ college staff and students",
+        "Operated a help desk that supports 2000+ remote associates"
+      ]
+    },
+    {
+      "job_title": "Educator and Social Worker",
+      "company": "EduTech",
+      "duration": "01/2018 - 01/2019",
+      "description": [
+        "Educated 100+ street children in computer systems and how to work with OS",
+        "Social worker in the streets of Boston, MA",
+        "Coordinated 30+ volunteers"
+      ]
+    }
+  ],
+  "Skills": [
+    "Java",
+    "Python",
+    "HTML",
+    "JavaScript",
+    "CSS",
+    "Visualforce",
+    "Windows",
+    "Web Services",
+    "Computer Systems",
+    "AWS",
+    "C++",
+    "Troubleshooting"
+  ]
+}

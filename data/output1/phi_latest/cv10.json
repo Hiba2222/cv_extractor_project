@@ -1,0 +1,5 @@
+{
+  "error": "JSON parsing error: No valid JSON found in response",
+  "raw_output": " {\n  \"Name\": \"VANESSA FORD\",\n  \"Email\": \"bettypen@gmail.com\",\n  \"Phone\": \"1-234-423-8975\",\n  \"Address\": \"Little Rock, AK\",\n  \"Education\": [\n    {\n      \"degree\": \"Bachelor of Computer Science\",\n      ...",
+  "model": "phi:latest"
+}

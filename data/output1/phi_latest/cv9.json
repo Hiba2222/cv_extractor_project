@@ -1,0 +1,31 @@
+{
+  "Name": "Rachelle",
+  "Email": "",
+  "Phone": "",
+  "Address": "",
+  "Education": [
+    {
+      "degree": "",
+      "institution": "",
+      "year": "",
+      "description": []
+    }
+  ],
+  "Experience": [
+    {
+      "job_title": "",
+      "company": "",
+      "duration": "",
+      "description": []
+    }
+  ],
+  "Skills": [
+    "skill1",
+    "skill2"
+  ],
+  "Languages": [
+    "language1",
+    "language2"
+  ],
+  "model": "phi:latest"
+}

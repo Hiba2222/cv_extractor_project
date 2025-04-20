@@ -1,0 +1,69 @@
+{
+  "Name": "Hiba Nahdi",
+  "Email": "hiba.nahdi4@ensi-uma.tn",
+  "Phone": "",
+  "Address": "",
+  "Education": [
+    {
+      "degree": "Baccalaureate in experimental sciences",
+      "institution": "Ahmed Amine High School",
+      "year": "Sept 2013-June 2017",
+      "description": []
+    },
+    {
+      "degree": "Preparatory Engineering Studies in physics and chemistry",
+      "institution": "Preparatory Institute for Engineering Studies of Tunis (IPEIT)",
+      "year": "Sept 2017-June 2020",
+      "description": []
+    },
+    {
+      "degree": "Engineering Degree in Computer Science",
+      "institution": "National School for Computer Science",
+      "year": "Sept 2020 – Present",
+      "description": []
+    }
+  ],
+  "Experience": [
+    {
+      "job_title": "Mitacs Research Intern - Graduation Project",
+      "company": "University of Quebec in Abitibi-Témiscamingue (UQAT)",
+      "duration": "March 2024 – August 2024",
+      "description": [
+        "Perform comprehensive web scraping and data mining of articles from the university library, then clean and prepare the data to ensure it is ready for modeling.",
+        "Build a model to extract key information, such as success factors and constraints, using named entity recognition (NER).",
+        "Apply sentiment analysis to evaluate the project’s tone, favorability, and acceptance based on the extracted data.",
+        "Integrate an API to test and validate the model’s functionality and performance in real-time."
+      ]
+    },
+    {
+      "job_title": "Software Engineer Intern - Summer Internship Project",
+      "company": "Welyne",
+      "duration": "Jul 2023 – Aug 2023",
+      "description": [
+        "Create a platform that provides a diverse range of high-quality courses and jobs oﬀers.",
+        "Integrate a recommendation system to suggest job opportunities based on user’s acquired skills and certifications."
+      ]
+    }
+  ],
+  "Skills": [
+    "Machine Learning",
+    "NLP",
+    "LLMs",
+    "Data Mining",
+    "Git",
+    "Problem Solving",
+    "Algorithms and data structures",
+    "Gnu/Linux",
+    "SQL",
+    "Knowledge in Cloud computing",
+    "C/C++",
+    "Python",
+    "Java"
+  ],
+  "Languages": [
+    "Arabic",
+    "English",
+    "French"
+  ],
+  "model": "mistral:latest"
+}

@@ -1,0 +1,51 @@
+{
+  "Name": "Elizabeth Holmes",
+  "Email": "elizabeth.holmes@coolfreecv.com",
+  "Phone": "",
+  "Address": "",
+  "Education": [
+    {
+      "degree": "Bachelor of Science: Automotive Technology",
+      "institution": "Technical Institute, NY",
+      "year": 2014,
+      "description": []
+    }
+  ],
+  "Experience": [
+    {
+      "job_title": "Store Manager",
+      "company": "Luxury Car Center, New York",
+      "duration": "09/2015 to 05/2019",
+      "description": [
+        "Motivate and coach employees to meet service, sales, and repair goals.",
+        "Create and modify employee schedules with service levels in mind.",
+        "Recruit and hire top mechanics, service advisors, and sales people.",
+        "Maintain detailed logs and reports of services performed, profit, and budget information.",
+        "Help out in sales and repair areas as needed and maintain comprehensive current knowledge of operations.",
+        "Answered customer questions and resolved service issues in a timely manner.",
+        "Diagnosed customer issues by asking probing questions and write up repair orders.",
+        "Ordered supplies and kept inventory at optimal levels.",
+        "Coordinated equipment repairs and maintenance."
+      ]
+    },
+    {
+      "job_title": "Store Manager",
+      "company": "JAPAN CAR CENTER, New York",
+      "duration": "09/2014 to 09/2015",
+      "description": [
+        "Answered customer questions and resolved service issues in a timely manner.",
+        "Diagnosed customer issues by asking probing questions and write up repair orders.",
+        "Ordered supplies and kept inventory at optimal levels.",
+        "Coordinated equipment repairs and maintenance."
+      ]
+    }
+  ],
+  "Skills": [
+    "Leadership",
+    "Multi-tasking"
+  ],
+  "Languages": [
+    "English"
+  ],
+  "model": "phi:latest"
+}

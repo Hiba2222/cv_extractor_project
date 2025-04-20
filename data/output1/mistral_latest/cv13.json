@@ -1,0 +1,58 @@
+{
+  "Name": "JAMES ANDERSON",
+  "Email": "j.anderson@email.com",
+  "Phone": "+44 1234 567890",
+  "Address": "London, UK",
+  "Education": [
+    {
+      "degree": "Master's Degree in Computer Science",
+      "institution": "University of Cambridge",
+      "year": "September 2015 - June 2017"
+    },
+    {
+      "degree": "Bachelor's Degree in Software Engineering",
+      "institution": "University of Leeds",
+      "year": "August 2011 - June 2015"
+    }
+  ],
+  "Experience": [
+    {
+      "job_title": "Intern Web Developer",
+      "company": "WebStart",
+      "duration": "Full Time, 20 May, 2014",
+      "description": []
+    },
+    {
+      "job_title": "Junior Frontend Developer",
+      "company": "CodeWorks",
+      "duration": "Full Time, 5 December, 2016",
+      "description": []
+    },
+    {
+      "job_title": "Frontend Developer",
+      "company": "DigitalCrafts",
+      "duration": "Full Time, 10 June, 2018",
+      "description": []
+    },
+    {
+      "job_title": "Senior Frontend Developer",
+      "company": "TechWave",
+      "duration": "Full Time, 15 March, 2021",
+      "description": []
+    }
+  ],
+  "Skills": [
+    "HTML/CSS",
+    "JavaScript",
+    "React",
+    "Git/GitHub",
+    "Webpack",
+    "REST APIs"
+  ],
+  "Languages": [
+    "English",
+    "Spanish",
+    "French"
+  ],
+  "model": "mistral:latest"
+}

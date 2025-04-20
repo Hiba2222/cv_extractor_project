@@ -1,0 +1,41 @@
+{
+  "Name": "Jason William",
+  "Email": "jas-william@email.com",
+  "Phone": "1234567890",
+  "Address": "Miejska 7, 05-807 Podkowa Leśna, Poland",
+  "Education": [
+    {
+      "degree": "Bachelor's degree in computer programming",
+      "institution": "Drexel University",
+      "year": 2011,
+      "description": []
+    },
+    {
+      "degree": "BA in Computer Science",
+      "institution": "University of Warsaw",
+      "year": 2016,
+      "description": []
+    }
+  ],
+  "Experience": [
+    {
+      "job_title": "Junior Programmer",
+      "company": "Interbiz",
+      "duration": "20210-2022",
+      "description": []
+    },
+    {
+      "job_title": "Entry Level Programmer",
+      "company": "Global Media",
+      "duration": "2024-Present",
+      "description": []
+    }
+  ],
+  "Skills": [
+    "Programming languages: Python, Java, C++"
+  ],
+  "Languages": [
+    "English"
+  ],
+  "model": "phi:latest"
+}

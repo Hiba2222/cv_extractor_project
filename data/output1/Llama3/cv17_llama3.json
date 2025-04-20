@@ -1,0 +1,75 @@
+{
+  "Name": "Sarah Smithson",
+  "Email": "hello@reallygreatsite.com",
+  "Phone": "123-456-7890",
+  "Address": "",
+  "Education": [
+    {
+      "degree": "BACHELOR OF ARTS",
+      "institution": "Buzinni Art Academy",
+      "year": "2012 - 2016",
+      "description": []
+    },
+    {
+      "degree": "MASTERS OF DESIGN",
+      "institution": "Institute Of Arts & Design",
+      "year": "2016 - 2018",
+      "description": []
+    }
+  ],
+  "Experience": [
+    {
+      "job_title": "JUNIOR ASSISTANT",
+      "company": "",
+      "duration": "2018",
+      "description": [
+        "Worked on marketing campaigns.",
+        "Handled multiple digital accounts.",
+        "Created digital marketing campaigns.",
+        "Assisted the head designer."
+      ]
+    },
+    {
+      "job_title": "JUNIOR PRODUCT DESIGNER",
+      "company": "",
+      "duration": "2019",
+      "description": [
+        "Worked on marketing campaigns.",
+        "Handled multiple digital accounts.",
+        "Created digital marketing campaigns.",
+        "Assisted the head designer."
+      ]
+    },
+    {
+      "job_title": "GRAPHIC DESIGNER",
+      "company": "",
+      "duration": "2020",
+      "description": [
+        "Worked on marketing campaigns.",
+        "Handled multiple digital accounts.",
+        "Created digital marketing campaigns.",
+        "Assisted the head designer."
+      ]
+    },
+    {
+      "job_title": "SENIOR GRAPHIC DESIGNER",
+      "company": "",
+      "duration": "2026",
+      "description": [
+        "Worked on marketing campaigns.",
+        "Handled multiple digital accounts.",
+        "Created digital marketing campaigns.",
+        "Assisted the head designer."
+      ]
+    }
+  ],
+  "Skills": [
+    "DRAWING",
+    "DESIGN",
+    "COMPOSITION",
+    "CREATIVE THINKING",
+    "English",
+    "German",
+    "Italian"
+  ]
+}

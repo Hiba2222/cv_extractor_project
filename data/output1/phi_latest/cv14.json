@@ -1,0 +1,49 @@
+{
+  "Name": "Christopher Morgan",
+  "Email": "christoper.m@gmail.com",
+  "Phone": "+44 (0)20 766 6855 5",
+  "Address": "177 Great Portland Street, London W5W 6PQ",
+  "Education": [
+    "Bachelor of Science: Computer Information Systems",
+    "Columbia University, NY",
+    "2014"
+  ],
+  "Experience": [
+    "Web Developer",
+    "09/2015 to 05/2019",
+    "Luna Web Design, New York",
+    "Cooperate with designers to create clean interfaces and simple, intuitive interactions and experiences.",
+    "Develop project concepts and maintain optimal workflow.",
+    "Worked with senior developer to manage large, complex design projects for corporate clients.",
+    "Completed detailed programming and development tasks for front end public and internal websites as well as challenging back-end server code.",
+    "Carry out quality assurance tests to discover errors and optimize usability."
+  ],
+  "Skills": [
+    "PHP Framework",
+    "Zend",
+    "Codeigniter",
+    "Symfony"
+  ],
+  "Languages": [
+    "JavaScript",
+    "HTML5",
+    "PHP OOP",
+    "CSS",
+    "SQL",
+    "MySQL"
+  ],
+  "Summary": "Senior Web Developer specializing in front end development.",
+  "Skill Highlights": [
+    "Project management",
+    "Strong decision maker",
+    "Complex problem solver",
+    "Creative design",
+    "Innovative",
+    "Service-focused"
+  ],
+  "Certifications": [
+    "PHP Framework (certificate): Zend, Codeigniter, Symfony",
+    "Programming Languages: JavaScript, HTML5, PHP OOP, CSS, SQL, MySQL"
+  ],
+  "model": "phi:latest"
+}

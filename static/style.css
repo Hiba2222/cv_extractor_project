@@ -1,0 +1,264 @@
+body {
+    background-color: #f8f9fa;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    color: #333;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    word-break: break-word;
+}
+
+h1, h2, h3, h4, h5 {
+    color: #2c3e50;
+    font-weight: 600;
+}
+
+.container {
+    max-width: 900px;
+}
+
+/* Header & Title */
+header h1 {
+    color: #0056b3;
+    position: relative;
+    padding-bottom: 15px;
+}
+
+header h1:after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80px;
+    height: 3px;
+    background-color: #0066cc;
+}
+
+/* PDF Viewer */
+.pdf-viewer .card {
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+    transition: all 0.3s ease;
+}
+
+.pdf-viewer .card:hover {
+    box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+}
+
+.pdf-frame {
+    border: none;
+    background-color: #fafafa;
+}
+
+/* Extraction Results */
+.extraction-results .card {
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+    transition: all 0.3s ease;
+}
+
+.extraction-results .card:hover {
+    box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+}
+
+.extraction-results .card-header {
+    background-color: #f1f8ff;
+    border-top-left-radius: 10px !important;
+    border-top-right-radius: 10px !important;
+    padding: 15px 20px;
+}
+
+.info-row {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 15px;
+    margin-bottom: 10px;
+}
+
+.edu-item, .exp-item, .cert-item {
+    padding: 15px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    transition: transform 0.2s ease;
+}
+
+.edu-item:hover, .exp-item:hover, .cert-item:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.edu-item h5, .exp-item h5 {
+    color: #0066cc;
+    margin-bottom: 10px;
+    border-left: 3px solid #0066cc;
+    padding-left: 10px;
+}
+
+.responsibilities ul {
+    padding-left: 20px;
+}
+
+.skill-list {
+    list-style-type: none;
+    padding-left: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.skill-list li {
+    display: inline-block;
+    background-color: #e9ecef;
+    padding: 6px 12px;
+    margin: 5px;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    transition: all 0.2s ease;
+    border: 1px solid transparent;
+}
+
+.skill-list li:hover {
+    background-color: #d6e9ff;
+    border-color: #0066cc;
+    transform: scale(1.05);
+}
+
+/* Upload Form Enhancements */
+.form-control {
+    border-radius: 8px;
+    padding: 12px;
+    transition: all 0.3s ease;
+}
+
+.form-control:focus {
+    border-color: #80bdff;
+    box-shadow: 0 0 0 0.25rem rgba(0, 123, 255, 0.25);
+}
+
+.btn-primary {
+    background-color: #0066cc;
+    border-color: #0066cc;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004494;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* File Upload Styling */
+.file-upload-container {
+    border: 2px dashed #ccc;
+    border-radius: 10px;
+    padding: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+    transition: all 0.3s ease;
+}
+
+.file-upload-container:hover {
+    border-color: #0066cc;
+    background-color: #f1f8ff;
+}
+
+.file-upload-container.highlight {
+    border-color: #0066cc;
+    background-color: #e6f2ff;
+}
+
+/* Model Selection */
+.model-selection {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 20px 0;
+}
+
+.model-card {
+    border: 2px solid #e9ecef;
+    border-radius: 10px;
+    padding: 15px;
+    width: 120px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.model-card:hover {
+    border-color: #0066cc;
+    background-color: #f1f8ff;
+}
+
+.model-card.selected {
+    border-color: #0066cc;
+    background-color: #e6f2ff;
+}
+
+.model-card img {
+    width: 48px;
+    height: 48px;
+    margin-bottom: 10px;
+}
+
+/* Buttons */
+.btn-check:checked + .btn-outline-primary {
+    background-color: #0066cc;
+    color: white;
+}
+
+.btn-outline-primary {
+    color: #0066cc;
+    border-color: #0066cc;
+}
+
+.btn-outline-primary:hover {
+    background-color: #e6f2ff;
+    color: #0056b3;
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 767px) {
+    .pdf-viewer, .extraction-results {
+        margin-bottom: 20px;
+    }
+    
+    .pdf-frame {
+        height: 400px !important;
+    }
+    
+    .info-row {
+        grid-template-columns: 1fr;
+    }
+    
+    .model-selection {
+        flex-wrap: wrap;
+    }
+}
+
+/* Animation */
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+.model-result {
+    animation: fadeIn 0.5s ease;
+}
+
+/* Fix for dash characters */
+.exp-item p, .edu-item p {
+    white-space: normal;
+    word-break: break-word;
+}
+
+/* Increase visibility of duration text */
+.fa-calendar + strong + span {
+    font-weight: 500;
+}

@@ -1,0 +1,43 @@
+{
+  "Name": "Jenna Mirella",
+  "Email": "mirella123@email.com",
+  "Phone": "1 234 567 890",
+  "Address": "",
+  "Education": [
+    {
+      "degree": "",
+      "institution": "",
+      "year": "",
+      "description": []
+    },
+    {
+      "degree": "",
+      "institution": "",
+      "year": "",
+      "description": []
+    }
+  ],
+  "Experience": [
+    {
+      "job_title": "",
+      "company": "",
+      "duration": "",
+      "description": []
+    },
+    {
+      "job_title": "",
+      "company": "",
+      "duration": "",
+      "description": []
+    }
+  ],
+  "Skills": [
+    "skill1",
+    "skill2"
+  ],
+  "Languages": [
+    "language1",
+    "language2"
+  ],
+  "model": "phi:latest"
+}

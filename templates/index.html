@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV Extractor - Upload</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="{{ url_for('static', filename='scripts.js') }}"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1 class="text-center my-5">CV Extractor</h1>
+            <p class="lead text-center mb-5">Transform your CV into structured data using advanced AI models</p>
+        </header>
+
+        {% with messages = get_flashed_messages() %}
+        {% if messages %}
+        <div class="flash-messages mb-4">
+            {% for message in messages %}
+            <div class="alert alert-warning alert-dismissible fade show" role="alert">
+                <i class="fas fa-exclamation-triangle me-2"></i> {{ message }}
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
+            {% endfor %}
+        </div>
+        {% endif %}
+        {% endwith %}
+
+        <div class="card shadow p-4 mb-5">
+            <form action="/upload" method="POST" enctype="multipart/form-data" class="d-flex flex-column align-items-center">
+                <div class="file-upload-container w-100" id="dropZone">
+                    <i class="fas fa-file-pdf fa-3x mb-3 text-muted"></i>
+                    <h4>Drag & Drop your CV here</h4>
+                    <p class="text-muted mb-3">or click to browse files</p>
+                    <input class="form-control d-none" type="file" id="pdf_file" name="pdf_file" accept=".pdf" required>
+                    <button type="button" id="browseButton" class="btn btn-outline-primary">Browse Files</button>
+                    <div id="fileInfo" class="mt-3 d-none">
+                        <div class="alert alert-success">
+                            <i class="fas fa-check-circle me-2"></i> 
+                            <span id="fileName">No file selected</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="w-100 mb-4">
+                    <h4 class="mb-3 text-center">Select an AI model</h4>
+                    <div class="model-selection">
+                        <div class="model-card" data-model="llama3">
+                            <i class="fas fa-brain fa-2x text-primary"></i>
+                            <h6>Llama 3</h6>
+                            <input type="radio" name="models" value="llama3" class="d-none" checked>
+                        </div>
+                        <div class="model-card" data-model="mistral">
+                            <i class="fas fa-wind fa-2x text-primary"></i>
+                            <h6>Mistral</h6>
+                            <input type="radio" name="models" value="mistral" class="d-none">
+                        </div>
+                        <div class="model-card" data-model="phi">
+                            <i class="fas fa-atom fa-2x text-primary"></i>
+                            <h6>Phi</h6>
+                            <input type="radio" name="models" value="phi" class="d-none">
+                        </div>
+                    </div>
+                </div>
+
+                <button type="submit" id="submitBtn" class="btn btn-primary btn-lg px-5 disabled">
+                    <i class="fas fa-magic me-2"></i> Extract Information
+                </button>
+            </form>
+        </div>
+
+        <div class="card shadow p-4 mb-5">
+            <h4 class="text-center mb-4"><i class="fas fa-info-circle me-2"></i> How it works</h4>
+            <div class="row text-center">
+                <div class="col-md-4 mb-3">
+                    <div class="p-3">
+                        <i class="fas fa-file-upload fa-2x mb-3 text-primary"></i>
+                        <h5>1. Upload</h5>
+                        <p class="text-muted">Upload your CV in PDF format</p>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-3">
+                    <div class="p-3">
+                        <i class="fas fa-cogs fa-2x mb-3 text-primary"></i>
+                        <h5>2. Process</h5>
+                        <p class="text-muted">AI extracts structured information</p>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-3">
+                    <div class="p-3">
+                        <i class="fas fa-check-circle fa-2x mb-3 text-primary"></i>
+                        <h5>3. Review</h5>
+                        <p class="text-muted">View and download extracted data</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="text-center text-muted mt-5 py-3">
+        <p>CV Extractor with LLMs (Ollama) - by NAHDI Hiba</p>
+    </footer>
+</body>
+</html>

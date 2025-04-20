@@ -1,0 +1,44 @@
+{
+  "Name": "Sarah Clark",
+  "Email": "sarah-clark@email.com",
+  "Phone": "",
+  "Address": "600 May St, Oregon City, OR 97045, USA",
+  "Education": [
+    {
+      "degree": "Bachelor of Science in Biotechnology",
+      "institution": "University of Maryland",
+      "year": 2010,
+      "description": []
+    },
+    {
+      "degree": "",
+      "institution": "",
+      "year": "",
+      "description": []
+    }
+  ],
+  "Experience": [
+    {
+      "job_title": "Biotechnology Research Team Leader",
+      "company": "Biology Group Ltd",
+      "duration": "2016-2018",
+      "description": []
+    },
+    {
+      "job_title": "",
+      "company": "",
+      "duration": "",
+      "description": []
+    }
+  ],
+  "Skills": [
+    "Blast",
+    "Matlab",
+    "SPSS"
+  ],
+  "Languages": [
+    "English",
+    "Spanish"
+  ],
+  "model": "phi:latest"
+}

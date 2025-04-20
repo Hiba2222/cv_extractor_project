@@ -1,0 +1,56 @@
+{
+  "Name": "TIMOTHY DUNCAN",
+  "Email": "lily.williams@gmail.com",
+  "Phone": "229-828-1284",
+  "Address": "San Francisco, CA",
+  "Education": [
+    {
+      "degree": "B.S. Software Engineering",
+      "institution": "University of California, San Francisco",
+      "year": 2008,
+      "description": []
+    },
+    {
+      "degree": "B.S. Software Engineering",
+      "institution": "University of California, San Francisco",
+      "year": 2012,
+      "description": []
+    }
+  ],
+  "Experience": [
+    {
+      "job_title": "Python Developer",
+      "company": "Revolut",
+      "duration": "2015-2018",
+      "description": []
+    },
+    {
+      "job_title": "Python Developer",
+      "company": "Bank of America",
+      "duration": "2012-2015",
+      "description": []
+    }
+  ],
+  "Skills": [
+    "Programming",
+    "Python",
+    "SciPy",
+    "NumPy",
+    "Matplotlib",
+    "Django",
+    "Flask",
+    "SQL",
+    "Java"
+  ],
+  "Languages": [
+    "Python",
+    "SciPy",
+    "NumPy",
+    "Matplotlib",
+    "Django",
+    "Flask",
+    "SQL",
+    "Java"
+  ],
+  "model": "phi:latest"
+}

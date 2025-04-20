@@ -1,0 +1,39 @@
+{
+  "name": "SOFIA PRISCILLA",
+  "email": "priscilla@email.com",
+  "phone": "+1 234-567-8900",
+  "skills": [
+    "Communication",
+    "Vital sign",
+    "Organizational",
+    "Phlebotomy"
+  ],
+  "education": [
+    {
+      "degree": "Associate of Applied Science in Medical Assisting",
+      "institution": "Zen Medical Institute",
+      "year": "2013-2017",
+      "description": []
+    },
+    {
+      "degree": "Premed Student Medical Assistant Internship",
+      "institution": "Kaminska Dermatology",
+      "year": "2016 - 2017",
+      "description": []
+    }
+  ],
+  "experience": [
+    {
+      "job_title": "Certified Medical Assistant",
+      "company": "MediCare Connect",
+      "duration": "2020-2024",
+      "description": []
+    },
+    {
+      "job_title": "Medical Office Assistant",
+      "company": "Healthwise Solutions",
+      "duration": "2017-2020",
+      "description": []
+    }
+  ]
+}

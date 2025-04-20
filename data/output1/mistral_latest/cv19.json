@@ -1,0 +1,40 @@
+{
+  "Name": "OLIVIA WILSON",
+  "Email": "",
+  "Phone": "",
+  "Address": "",
+  "Education": [
+    {
+      "degree": "High School Student",
+      "institution": "Borcelle High School",
+      "year": "2022 - (current)",
+      "description": []
+    }
+  ],
+  "Experience": [
+    {
+      "job_title": "Casual Assistant",
+      "company": "Borcelle Coffee Shop",
+      "duration": "2021 to 2022",
+      "description": []
+    },
+    {
+      "job_title": "Babysitting",
+      "company": "",
+      "duration": "2021 to 2022",
+      "description": []
+    }
+  ],
+  "Skills": [
+    "Management of Cash & Credit Payments",
+    "Front of House/Service Experience",
+    "Taking of orders from customers",
+    "Serving of food and drinks",
+    "Answering Phone and taking orders",
+    "Cleaning and maintenance of coffee machine/equipment",
+    "Following procedures and following directions of manager.",
+    "Cafe Cleaning to a High Standard"
+  ],
+  "Languages": [],
+  "model": "mistral:latest"
+}

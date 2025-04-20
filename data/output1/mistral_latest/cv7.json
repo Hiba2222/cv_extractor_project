@@ -1,0 +1,58 @@
+{
+  "Name": "Jenna Melinda",
+  "Email": "jennamelinda@helpshared.com",
+  "Phone": "+65 123-456-7890",
+  "Address": "480 Woodlands Industrial Park E5, Singapoure 757322",
+  "Education": [
+    {
+      "degree": "Bachelor's of Science in Economics",
+      "institution": "EAST VIRGINIA UNIVERSITY",
+      "year": "2006 – 2009"
+    },
+    {
+      "degree": "Bachelor's of Arts in Communication",
+      "institution": "EAST GEORGIA UNIVERSITY",
+      "year": "2009 – 2012"
+    },
+    {
+      "degree": "Bachelor of Science in Business Analytics",
+      "institution": "MASSACHUSETTS INSTITUTE",
+      "year": "2012 – 2015"
+    }
+  ],
+  "Experience": [
+    {
+      "job_title": "Business Analyst",
+      "company": "",
+      "duration": "",
+      "description": [
+        "Experienced professional with over 10 years of experience in analytical roles, five of which are in a business analyst role.",
+        "Seeking a position with Space Analytics, Inc. as a Business Analyst."
+      ]
+    },
+    {
+      "job_title": "",
+      "company": "DESERT ANALYTICS, INC",
+      "duration": "2016– 2018",
+      "description": [
+        "Analyzing data for trends to predict outcomes of business decisions - Learning best methods for data collection and storage."
+      ]
+    },
+    {
+      "job_title": "",
+      "company": "WORLD ANALYSIS INC",
+      "duration": "2018 – 2021",
+      "description": [
+        "Developed and executed a comprehensive testing plan for a new product launch, resulting in a 95% success rate and a 10% increase in revenue."
+      ]
+    }
+  ],
+  "Skills": [
+    "Leadership",
+    "Communication",
+    "Active listening",
+    "Writing"
+  ],
+  "Languages": [],
+  "model": "mistral:latest"
+}

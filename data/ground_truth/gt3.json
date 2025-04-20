@@ -1,0 +1,37 @@
+{
+    "Name": "Sarah Clark",
+    "Email": "sarah-clark@email.com",
+    "Phone": "+1 234-567-8900",
+    "Address": "600 May St, Oregon City, OR 97045, USA",
+    "Education": [
+      {
+        "degree": "Bachelor of Science in Biotechnology",
+        "institution": "University of Maryland",
+        "year": "2010 - 2013",
+        "description": []
+      },
+      {
+        "degree": "Certified Biomedical Auditor (CBA)",
+        "institution": "American Society for Quality (ASQ)",
+        "year": "2013-2016",
+        "description": []
+      }
+    ],
+    "Experience": [
+      {
+        "job_title": "Biotechnology Research Team Leader",
+        "company": "Biology Group Ltd, New York",
+        "duration": "2016-2018",
+        "description": []
+      }
+    ],
+    "Skills": [
+      "Analysis",
+      "Leadership",
+      "Research",
+      "Management",
+      "BLAST",
+      "MATLAB",
+      "SPSS"
+    ]
+  }

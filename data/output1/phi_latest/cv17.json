@@ -1,0 +1,77 @@
+{
+  "Name": "Sarah Smithson",
+  "Email": "hello@reallygreatsite.com",
+  "Phone": "123-456-7890",
+  "Address": "",
+  "Education": [
+    {
+      "degree": "Bachelor of Arts",
+      "institution": "Buzinni Art Academy",
+      "year": 2012,
+      "description": []
+    },
+    {
+      "degree": "Master of Design",
+      "institution": "Institute Of Arts & Design",
+      "year": 2016,
+      "description": []
+    }
+  ],
+  "Experience": [
+    {
+      "job_title": "Junior Assistant",
+      "company": "",
+      "duration": 2018,
+      "description": [
+        "Worked on marketing campaigns.",
+        "Handled multiple digital accounts.",
+        "Created digital marketing campaigns.",
+        "Assisted the head designer."
+      ]
+    },
+    {
+      "job_title": "Junior Product Designer",
+      "company": "",
+      "duration": 2019,
+      "description": [
+        "Worked on marketing campaigns.",
+        "Handled multiple digital accounts.",
+        "Created digital marketing campaigns.",
+        "Assisted the head designer."
+      ]
+    },
+    {
+      "job_title": "Graphic Designer",
+      "company": "",
+      "duration": 2020,
+      "description": [
+        "Worked on marketing campaigns.",
+        "Handled multiple digital accounts.",
+        "Created digital marketing campaigns.",
+        "Assisted the head designer."
+      ]
+    },
+    {
+      "job_title": "Senior Graphic Designer",
+      "company": "",
+      "duration": 2026,
+      "description": [
+        "Worked on marketing campaigns.",
+        "Handled multiple digital accounts.",
+        "Created digital marketing campaigns.",
+        "Assisted the head designer."
+      ]
+    }
+  ],
+  "Skills": [
+    "Drawing",
+    "Design",
+    "Creative Thinking"
+  ],
+  "Languages": [
+    "English",
+    "German",
+    "Italian"
+  ],
+  "model": "phi:latest"
+}

@@ -1,0 +1,76 @@
+{
+  "Name": "Christopher Morgan",
+  "Email": "christopher.morgan@gmail.com",
+  "Phone": "+49 800 600 600",
+  "Address": "",
+  "Education": [
+    {
+      "degree": "Bachelor of Science: Computer Information Systems",
+      "institution": "Columbia University, NY",
+      "year": 2014,
+      "description": []
+    },
+    {
+      "degree": "Bachelor of Science: Computer Information Systems",
+      "institution": "Columbia University, NY",
+      "year": 2014,
+      "description": []
+    }
+  ],
+  "Experience": [
+    {
+      "job_title": "Web Developer",
+      "company": "Luna Web Design, New York",
+      "duration": "09/2015 to 05/2019",
+      "description": [
+        {
+          "task": "Cooperate with designers to create clean interfaces and simple, intuitive interactions and experiences.",
+          "result": "",
+          "description": []
+        },
+        {
+          "task": "Develop project concepts and maintain optimal workflow.",
+          "result": "",
+          "description": []
+        },
+        {
+          "task": "Work with senior developer to manage large, complex design projects for corporate clients.",
+          "result": "",
+          "description": []
+        },
+        {
+          "task": "Complete detailed programming and development tasks for front end public and internal websites as well as challenging back-end server code.",
+          "result": "",
+          "description": []
+        },
+        {
+          "task": "Carry out quality assurance tests to discover errors and optimize usability.",
+          "result": "",
+          "description": []
+        }
+      ],
+      "skills": [],
+      "languages": [],
+      "project_management": true,
+      "complex_problem_solving": true,
+      "creative_design": true,
+      "innovative": true,
+      "service-focused": true
+    }
+  ],
+  "Skills": [
+    "PHP Framework",
+    "Zend",
+    "Codeigniter",
+    "Symfony"
+  ],
+  "Languages": [
+    "JavaScript",
+    "HTML5",
+    "PHP OOP",
+    "CSS",
+    "SQL",
+    "MySQL"
+  ],
+  "model": "phi:latest"
+}

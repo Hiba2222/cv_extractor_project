@@ -1,0 +1,11 @@
+{
+  "Name": "",
+  "Email": "",
+  "Phone": "",
+  "Address": "",
+  "Education": [],
+  "Experience": [],
+  "Skills": [],
+  "Languages": [],
+  "model": "phi:latest"
+}

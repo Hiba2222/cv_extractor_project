@@ -1,0 +1,5 @@
+{
+  "error": "JSON parsing error: No valid JSON found in response",
+  "raw_output": " import json\nimport re\n\ndef extract_resume(text):\n    name = text[0]\n    email = text[1]\n    phone = text[2]\n    address = text[3]\n\n    education = []\n    experience = []\n    skills = []\n    languages...",
+  "model": "phi:latest"
+}

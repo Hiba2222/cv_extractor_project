@@ -1,0 +1,74 @@
+{
+  "Name": "TIMOTHY DUNCAN",
+  "Email": "lily.williams@gmail.com",
+  "Phone": "229-828-1284",
+  "Address": "San Francisco, CA",
+  "Education": [
+    {
+      "degree": "B.S. Software Engineering",
+      "institution": "University of California, San Francisco",
+      "year": "2008 - 2012",
+      "description": []
+    }
+  ],
+  "Experience": [
+    {
+      "job_title": "Python Developer",
+      "company": "Revolut",
+      "duration": "2015 - 2018",
+      "location": "San Francisco, CA",
+      "description": [
+        "Collaborated with Web Application Engineers, used Python scripts to load the data into AWS Cloud Cassandra database",
+        "Visualised over 40 datasets with Matplotlib",
+        "Involved in processing the streaming data as well as batch data using Apache Spark",
+        "Delivering projects with 1-2 days turn around time or even within hours"
+      ]
+    },
+    {
+      "job_title": "Python Developer",
+      "company": "Bank of America",
+      "duration": "2012 - 2015",
+      "location": "San Francisco, CA",
+      "description": [
+        "Developed internal tools for text mining (sentimental analysis), and web crawler for collecting data by Python and SQL",
+        "Used AWS Elastic Beanstalk service for deploying and scaling web applications and services developed with Java, Python",
+        "Developed shell scripting and Python programs to automate the data flow on day-to-day tasks",
+        "Analyzed the SQL scripts and designed the solution to Developed a custom ETL pipeline by using Python"
+      ]
+    },
+    {
+      "job_title": "Junior Python Developer",
+      "company": "Streich",
+      "duration": "2018 - Present",
+      "location": "San Francisco, CA",
+      "description": [
+        "Made over 800 insertions and 150 deletions to 4 central Firmware repositories in less than 3 months",
+        "Participated in more than 4 projects per year from initial research and conceptual design through testing and implementation phases",
+        "Developed data quality portal using Python scripting, increasing data quality by 30%",
+        "Communicated and coordinated with the project manager and coworkers to resolve 30+ build breaks a month"
+      ]
+    }
+  ],
+  "Skills": [
+    "Python",
+    "SciPy",
+    "NumPy",
+    "Matplotlib",
+    "Django",
+    "Flask",
+    "SQL",
+    "Java",
+    "AWS",
+    "Django ORM",
+    "MySQL",
+    "ETL",
+    "Cassandra",
+    "MongoDB",
+    "Hadoop",
+    "Spark"
+  ],
+  "Languages": [
+    "English"
+  ],
+  "model": "mistral:latest"
+}

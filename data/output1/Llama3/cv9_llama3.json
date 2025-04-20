@@ -1,0 +1,49 @@
+{
+  "Name": "RACHELLE BEAUDRY",
+  "Email": "hello@reallygreatsite.co",
+  "Phone": "123-456-7890",
+  "Address": "123 Anywhere St., Any City",
+  "Education": [
+    {
+      "degree": "Associate of Arts",
+      "institution": "Fauget High School",
+      "year": "2016",
+      "description": [
+        "Early Childhood Education"
+      ]
+    }
+  ],
+  "Experience": [
+    {
+      "job_title": "Babysitter",
+      "company": "The Stewart Family",
+      "duration": "2016-2018",
+      "description": [
+        "Care for a 5-year-old girl during parents' evening absences",
+        "Ensure children are bathed, fed, and in bed prior to parent's return",
+        "Play with children and read bedtime stories, improving children's interest in storytelling",
+        "Clean and organize the house",
+        "Took child to parks during daytime hours"
+      ]
+    },
+    {
+      "job_title": "Babysitter",
+      "company": "The Hamilton Family",
+      "duration": "2018-Present",
+      "description": [
+        "Looked after a 7-year-old boy during weekends and summer",
+        "Created interesting home learning activities, such as kids' watercolor painting",
+        "Prepared lunch and snacks, paying attention to the nutritional values of food, and turning around the child's previous dislike for cucumbers",
+        "Coordinates 10+ playdates with other families on the parent's list of approved playmates"
+      ]
+    }
+  ],
+  "Skills": [
+    "Meal and Snack preparation",
+    "Bathing, and Dressing",
+    "Activity Planning",
+    "Routine Management",
+    "Meal Planning and Preparation",
+    "Emergency First Aid Certified"
+  ]
+}

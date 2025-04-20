@@ -1,0 +1,17 @@
+{
+  "Name": "HIBA NAHDI",
+  "Email": "hiba.nahdi4@ensi-uma.tn",
+  "Phone": "",
+  "Address": "",
+  "Education": [],
+  "Experience": [],
+  "Skills": [
+    "skill1",
+    "skill2"
+  ],
+  "Languages": [
+    "language1",
+    "language2"
+  ],
+  "model": "phi:latest"
+}

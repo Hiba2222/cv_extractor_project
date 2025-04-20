@@ -1,0 +1,42 @@
+{
+    "Name": "SOFIA PRISCILLA",
+    "Email": "priscilla@email.com",
+    "Phone": "+1 234-567-8900",
+    "Address": "428 2nd Ave NE, Stewartville, MN 55976, USA",
+    "Education": [
+      {
+        "degree": "Associate of Applied Science in Medical Assisting",
+        "institution": "Zen Medical Institute",
+        "year": "2013-2017",
+        "description": []
+      },
+      {
+        "degree": "Premed Student Medical Assistant Internship",
+        "institution": "Kaminska Dermatology",
+        "year": "2016-2017",
+        "description": []
+      }
+    ],
+    "Experience": [
+      {
+        "job_title": "Certified Medical Assistant",
+        "company": "MediCare Connect",
+        "duration": "2020-2024",
+        "description": []
+      },
+      {
+        "job_title": "Medical Office Assistant",
+        "company": "Healthwise Solutions",
+        "duration": "2017-2020",
+        "description": []
+      }
+    ],
+    "Skills": [
+      "CPR",
+      "Empathy",
+      "Communication",
+      "Organizational",
+      "Phlebotomy",
+      "Vital sign"
+    ]
+  }

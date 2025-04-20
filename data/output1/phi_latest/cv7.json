@@ -1,0 +1,63 @@
+{
+  "Name": "Jenna Melinda",
+  "Email": "jennamelinda@helpshared.com",
+  "Phone": "+65 123 456 7890",
+  "Address": "480 Woodlands Industrial Park, E5, Singapoure 757322",
+  "Education": [
+    {
+      "degree": "Bachelor's of Science in Economics",
+      "institution": "East Virginia University",
+      "year": "200-2009",
+      "description": []
+    },
+    {
+      "degree": "Bachelor's of Arts in Communication",
+      "institution": "East Georgia University",
+      "year": "2012-2015",
+      "description": []
+    },
+    {
+      "degree": "Bachelor of Science in Business Analytics",
+      "institution": "Massachusetts Institute of Technology",
+      "year": "2016-2018",
+      "description": []
+    },
+    {
+      "degree": "Bachelor's of Science in Business Analytics",
+      "institution": "Desert Analytics, Inc.",
+      "year": "2018-2021",
+      "description": []
+    },
+    {
+      "degree": "Bachelor's of Science in Business Analytics",
+      "institution": "World Analysis Inc.",
+      "year": "2018-2021",
+      "description": []
+    }
+  ],
+  "Experience": [
+    {
+      "job_title": "Business Analyst",
+      "company": "Space Analytics, Inc.",
+      "duration": "200-2021",
+      "description": []
+    },
+    {
+      "job_title": "Business Analyst",
+      "company": "World Analysis, Inc.",
+      "duration": "2018-2021",
+      "description": []
+    }
+  ],
+  "Skills": [
+    "Leadership",
+    "Communication",
+    "Active Listening",
+    "Writing"
+  ],
+  "Languages": [
+    "English",
+    "Mandarin"
+  ],
+  "model": "phi:latest"
+}

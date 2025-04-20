@@ -1,0 +1,44 @@
+{
+  "Name": "Allison Clementine",
+  "Email": "alison123@helpshared.com",
+  "Phone": "+1 234 567 890",
+  "Address": "140 Greenwood Ave, Ambler, PA 19002, United States",
+  "Education": [
+    {
+      "degree": "Business Administration",
+      "institution": "University of Pennsylvania",
+      "year": "2014-2019",
+      "description": []
+    }
+  ],
+  "Experience": [
+    {
+      "job_title": "Office Manager",
+      "company": "ABC Finance Inc.",
+      "duration": "2021-2022",
+      "description": []
+    },
+    {
+      "job_title": "Office Coordinator",
+      "company": "Global Firm Inc.",
+      "duration": "2019-2020",
+      "description": []
+    }
+  ],
+  "Skills": [
+    "Leadership",
+    "Communication",
+    "Responsibility",
+    "Time Management",
+    "Organization",
+    "Problem Solving",
+    "Analytics"
+  ],
+  "Languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Japanese"
+  ],
+  "model": "phi:latest"
+}

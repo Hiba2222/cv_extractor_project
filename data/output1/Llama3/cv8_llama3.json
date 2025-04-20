@@ -1,0 +1,45 @@
+{
+  "Name": "CHRISTOPHER MORGAN",
+  "Email": "christoper.morgan@gmail.com",
+  "Phone": "+49 800 600 600",
+  "Address": "New York",
+  "Education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "Columbia University, NY",
+      "year": "2014-2019",
+      "description": [
+        "Computer Information Systems"
+      ]
+    }
+  ],
+  "Experience": [
+    {
+      "job_title": "Web Developer",
+      "company": "Luna Web Design",
+      "duration": "09/2015 to 05/2019",
+      "description": [
+        "Cooperate with designers to create clean interfaces and simple, intuitive interactions and experiences.",
+        "Develop project concepts and maintain optimal workflow.",
+        "Work with senior developer to manage large, complex design projects for corporate clients.",
+        "Complete detailed programming and development tasks for front end public and internal websites as well as challenging back-end server code.",
+        "Carry out quality assurance tests to discover errors and optimize usability."
+      ]
+    }
+  ],
+  "Skills": [
+    "HTML5",
+    "PHP OOP",
+    "JavaScript",
+    "CSS",
+    "MySQL",
+    "Project management",
+    "Strong decision maker",
+    "Complex problem solver",
+    "Creative design",
+    "Innovative",
+    "Service-focused",
+    "Spanish - C2",
+    "Chinese - A1"
+  ]
+}

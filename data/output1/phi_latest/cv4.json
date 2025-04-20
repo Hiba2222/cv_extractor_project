@@ -1,0 +1,45 @@
+{
+  "Name": "Christopher Morgan",
+  "Email": "christoper.morgan@gmail.com",
+  "Phone": "+44 (0)20 766 6855 5",
+  "Address": "177 Great Portland Street, London W5W 6PQ",
+  "Education": [
+    {
+      "degree": "Bachelor Degree of Computer Science",
+      "institution": "Technical University of Madrid",
+      "year": "2004-2008",
+      "description": []
+    },
+    {
+      "degree": "Certified as Data Analyst",
+      "institution": "Technical University of Madrid",
+      "year": "2002-2004",
+      "description": []
+    }
+  ],
+  "Experience": [
+    {
+      "job_title": "Data Analyst",
+      "company": "GHT Company, Madrid Spain",
+      "duration": "04/2014-04/2018",
+      "description": []
+    },
+    {
+      "job_title": "Data Analyst",
+      "company": "Startup Corporation, Madrid Spain",
+      "duration": "03/2012-05/2014",
+      "description": []
+    }
+  ],
+  "Skills": [
+    "Microsoft Office package: Microsoft Word, Excel, Access",
+    "Database operation: Microsoft Office Access, Oracle 8i",
+    "Statistical operation: SPSS, STATA",
+    "Programming: C++, SQL, HTML"
+  ],
+  "Languages": [
+    "English",
+    "Spanish"
+  ],
+  "model": "phi:latest"
+}

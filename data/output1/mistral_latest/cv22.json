@@ -1,0 +1,52 @@
+{
+  "Name": "Allison Clementine",
+  "Email": "alison123@helpshared.com",
+  "Phone": "+1 234-567-8900",
+  "Address": "140 Greenwood Ave, Ambler, PA 19002, United States",
+  "Education": [
+    {
+      "degree": "BUSINESS ADMINISTRATION",
+      "institution": "University of Pennsylvania",
+      "year": "2014 - 2019",
+      "description": [
+        "One of the top private universities in Philadelphia, United States.",
+        "Ranked #11 in QS World University Rankings 2025."
+      ]
+    }
+  ],
+  "Experience": [
+    {
+      "job_title": "OFFICE MANAGER",
+      "company": "ABC FINANCE INC",
+      "duration": "2021 - 2024",
+      "description": [
+        "Maintains administrative tasks and works with every department to make sure the staff focuses on what they do best, playing their part to achieve set goals."
+      ]
+    },
+    {
+      "job_title": "OFFICE COORDINATOR",
+      "company": "GLOBAL FIRM INC",
+      "duration": "2019 - 2021",
+      "description": [
+        "Oversees office communications and manage emails, phone calls, mail, and coordinate meetings, ensuring efficient workflow and effective communication within the office environment."
+      ]
+    }
+  ],
+  "Skills": [
+    "LEADERSHIP",
+    "COMMUNICATION",
+    "RESPONSIBILITY",
+    "TIME MANAGEMENT",
+    "ADAPTABILITY",
+    "ORGANIZATION",
+    "PROBLEM SOLVING",
+    "ANALYTICS"
+  ],
+  "Languages": [
+    "ENGLISH",
+    "FRENCH",
+    "SPANISH",
+    "JAPANESE"
+  ],
+  "model": "mistral:latest"
+}

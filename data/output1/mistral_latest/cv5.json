@@ -1,0 +1,34 @@
+{
+  "Name": "ARYA NICHOLAS",
+  "Email": "nicholas@email.com",
+  "Phone": "+1 234-567-8900",
+  "Address": "48 Crossman St, Taunton, MA 02780, USA",
+  "Education": [
+    {
+      "degree": "Bachelor of Industrial Engineering",
+      "institution": "Coral Springs University",
+      "year": "2013 - 2017"
+    }
+  ],
+  "Experience": [
+    {
+      "job_title": "Second Engineer",
+      "company": "InTech.Inc",
+      "duration": "2018 - 2020"
+    },
+    {
+      "job_title": "Master Engineer",
+      "company": "Iron Cloud.Ltd",
+      "duration": "2020 - 2024"
+    }
+  ],
+  "Skills": [
+    "Data assimilation",
+    "Budgeting",
+    "Leadership",
+    "Team Work",
+    "Time Management"
+  ],
+  "Languages": [],
+  "model": "mistral:latest"
+}

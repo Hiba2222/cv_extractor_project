@@ -1,0 +1,42 @@
+{
+  "name": "Jenna Mirella",
+  "email": "mirella123@email.com",
+  "phone": "+1 234-567-8910",
+  "skills": [
+    "Powerpoint",
+    "Microsoft Word",
+    "Accounts Payable & Receivable"
+  ],
+  "education": [
+    {
+      "degree": "Master's of business administrations",
+      "institution": "Boston University",
+      "year": "2015 - 2019",
+      "description": []
+    },
+    {
+      "degree": "Bachelor of Science in accounting",
+      "institution": "University of California - USA",
+      "year": "2014-2015",
+      "description": []
+    }
+  ],
+  "experience": [
+    {
+      "job_title": "Accounting Intern",
+      "company": "Global Marbels. Ins",
+      "duration": "2023-2024",
+      "description": [
+        "Assisted with the quarterly reconciliation process, helping to identify and rectify errors that led to 10% fewer adjustments in subsequent reports."
+      ]
+    },
+    {
+      "job_title": "Junior Accounting Clerk",
+      "company": "Mega",
+      "duration": "2019-2020",
+      "description": [
+        "Enhanced internal control mechanisms leading to a 15% improvement in compliance with GAAP for complex transactions."
+      ]
+    }
+  ]
+}
