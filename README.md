@@ -3,6 +3,7 @@
 Extract structured information from CVs and resumes with AI precision.
 
 ![CV Extractor Interface](static/interface1.png)
+![CV Extractor Interface](static/interface2.png)
 
 ## 🔍 Overview
 
